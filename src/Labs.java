@@ -1,3 +1,4 @@
+import java.util.*;
 public class Labs {
     public static void main(String args[]){
         int x,y,z;
@@ -8,7 +9,7 @@ public class Labs {
          }
          else if(int(x-n)>int(y-n)&&int(y-n)>int(z-n){
              System.out.println("L3");
-             }
+               }
          else {
              System.out.println("L2");
          }
