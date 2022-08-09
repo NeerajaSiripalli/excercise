@@ -1,8 +1,9 @@
 import java.util.*;
 public class StringOperations {
-    public static void main(){
+    public static void main(String args[]){
         String s1 = "Neeraja";
         String s2 = "Siripalli";
+
         char c;
        String  k =" ";
         System.out.println(s1.length());

@@ -38,7 +38,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Arrayex">
+  <component name="RunManager" selected="Application.OneDmeanoperation">
     <configuration name="Arrayex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrayex" />
       <module name="excercise" />
@@ -60,6 +60,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OneDmeanoperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OneDmeanoperation" />
+      <module name="excercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pattern" />
       <module name="excercise" />
@@ -69,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OneDmeanoperation" />
         <item itemvalue="Application.Arrayex" />
         <item itemvalue="Application.Dora" />
         <item itemvalue="Application.Collatz" />
